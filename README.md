@@ -1,10 +1,11 @@
 # Projeto: Criando Landing Page do zero
 
 ## 💻 Sobre o Projeto
-Criação de uma landing page do zero para área contábil, com design clean e atual. Projeto feito na Semana Programação do Zero, ministrada pelo Rodolfo Mori, que ocorreu de 10 a 16 de janeiro de 2022. 
+Criação de uma landing page do zero para área contábil, com design clean e atual. Projeto feito na Semana Programação do Zero, ministrada pelo Rodolfo Mori, que ocorreu de 10 a 16 de janeiro de 2022. O projeto possui um detalhe: ao clicar em "Contato", o formulário de contato da empresa aparece em uma transição, de forma suave. 
 
 ## 🎨 Projeto finalizado
-![layout pronto](https://user-images.githubusercontent.com/97350806/170838026-b5423649-8745-4239-8887-dae611f447c1.png)
+![layout pronto](https://user-images.githubusercontent.com/97350806/170838167-b241e514-7a8b-4dab-b9b7-59df434dfa7c.png)
+
 
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
